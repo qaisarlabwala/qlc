@@ -1,4 +1,4 @@
-# Qaisar Lab Calculator
+# Lab Test Calculator
 
 A lightweight, mobile-friendly progressive web app prototype with offline caching after its first successful load.
 
